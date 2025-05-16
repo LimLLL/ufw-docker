@@ -192,7 +192,7 @@ UFW 是 Ubuntu 上很流行的一个 iptables 前端，可以非常方便的管�
 下载 `ufw-docker` 脚本
 
     sudo wget -O /usr/local/bin/ufw-docker \
-      https://github.com/LimLLL/ufw-docker/raw/master/ufw-docker
+      https://github.com/LimLLL/ufw-docker/raw/main/ufw-docker
     chmod +x /usr/local/bin/ufw-docker
 
 使用下列命令来修改 ufw 的 `after.rules` 文件
